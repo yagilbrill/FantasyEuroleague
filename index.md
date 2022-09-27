@@ -1,4 +1,4 @@
 ---
-ayout: page
+layout: page
 title: "maccabi"
 ---
