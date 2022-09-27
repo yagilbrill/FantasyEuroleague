@@ -1,1 +1,1 @@
-# FantasyEuroleague
+# Fantasy Euroleague
