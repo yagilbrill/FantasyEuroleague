@@ -1,5 +1,4 @@
 remote_theme: pages-themes/modernist@v0.2.0
-theme: jekyll-theme-modernist
 title: Fantasy Euroleague
 description: Predict the winner and the difference on every euroleague match, and beat your friends
 permalink: /:title/
@@ -18,3 +17,5 @@ navigation:
 external:
 - {title: Mail, icon: envelope, url: "https://www.one.co.il/"}
 
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
