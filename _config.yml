@@ -1,7 +1,7 @@
 remote_theme: pages-themes/modernist@v0.2.0
-title: Fantasy Euroleague
-description: Predict the winner and the difference on every euroleague match, and beat your friends 
-permalink: /:title
+title: "Fantasy Euroleague"
+description: "Predict the winner and the difference on every euroleague match, and beat your friends"
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 
