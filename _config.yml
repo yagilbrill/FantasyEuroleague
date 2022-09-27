@@ -6,7 +6,6 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 
 
-
 # Layout
 show_frame: true
 show_sidebar: true
