@@ -12,7 +12,8 @@ show_sidebar: true
 
 # Menu
 navigation:
-- {title: "mac", file: "index.md"}
+- {file: "index.md", title: mac}
+- {file: "README.md", icon: home}
 
 external:
 - {title: "Mail", icon: envelope, url: "https://www.one.co.il/"}
