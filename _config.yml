@@ -19,5 +19,3 @@ navigation:
 external:
 - {title: Mail, icon: envelope, url: "https://www.one.co.il/"}
 
-plugins:
-- jekyll-feed
